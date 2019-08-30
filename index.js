@@ -1,6 +1,5 @@
 const Fastify = require('fastify');
 
-
 function server () {
     const fastify = Fastify();
 

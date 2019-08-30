@@ -10,13 +10,12 @@
   "author": "Milos Bejda <mbejda@live.com> (tired.io)",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^2.7.1",
+    "fastify": "2.7.1",
     "fastify-rate-limit": "^2.2.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.0",
-    "supertest": "^4.0.2",
-    "tap": "^14.6.1"
+    "supertest": "^4.0.2"
   }
 }
